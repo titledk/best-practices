@@ -8,6 +8,7 @@ Things to take care off before handing off a project.
 _Has a favicon been set up?_ - use a web based generator
 - [ ] Do we have a cookie policy plugin?
 - [ ] Has (Google) Analytics been set up?
+- [ ] Print stylesheet?
 
 
 ## Device Compatibility
