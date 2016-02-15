@@ -4,6 +4,7 @@ Things to take care off before handing off a project.
 
 ## Site
 
+- [ ] Clear whether or not to use the `www` prefix
 - [ ] Favicon   
 _Has a favicon been set up?_ - use a web based generator
 - [ ] Do we have a cookie policy plugin?
@@ -13,7 +14,7 @@ _Has a favicon been set up?_ - use a web based generator
 
 ## Device Compatibility
 
-- [ ] Does the site work in browsers promised?    
+- [ ] Does the project work in browsers promised?    
 Go through the site on IE + make some screenshots on Browserstack
 
 
@@ -28,3 +29,4 @@ Go through the site on IE + make some screenshots on Browserstack
 _Have backups been setup?_
   - [ ] Onsite
   - [ ] Offsite
+- [ ] What's the caching strategy? Is there a need for load testing?
