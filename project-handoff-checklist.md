@@ -30,3 +30,4 @@ _Have backups been setup?_
   - [ ] Onsite
   - [ ] Offsite
 - [ ] What's the caching strategy? Is there a need for load testing?
+- [ ] Are outgoing / transactional mails working? For mission critical mails, consider using services like [Mandrill](http://mandrill.com) or [Mailgun](http://www.mailgun.com)
