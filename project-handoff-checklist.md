@@ -6,7 +6,7 @@ Things to take care off before handing off a project.
 
 - [ ] Clear whether or not to use the `www` prefix
 - [ ] Favicon (including [vector favicon for Safari](http://blog.iconfactory.com/2015/11/the-new-favicon/) and mobile icons)   
-_Has a favicon been set up?_ - use a web based generator
+_Has a favicon been set up?_ - use a [web based generator](http://www.favicon-generator.org)
 - [ ] Do we have a cookie policy plugin?
 - [ ] Has (Google) Analytics been set up?
 - [ ] Print stylesheet?
