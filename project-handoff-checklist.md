@@ -15,7 +15,7 @@ _Has a favicon been set up?_ - use a [web based generator](http://www.favicon-ge
 ## Device Compatibility
 
 - [ ] Does the project work in browsers promised?    
-Go through the site on IE + make some screenshots on Browserstack
+Go through the site on IE + make some screenshots on Browserstack (paid). You can also use the free service <http://browsershots.org/>, which is a little slower and has a less nice UX.
 
 
 ## Languages
