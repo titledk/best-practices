@@ -10,6 +10,7 @@ _Has a favicon been set up?_ - use a [web based generator](http://www.favicon-ge
 - [ ] Do we have a cookie policy plugin?
 - [ ] Has (Google) Analytics been set up?
 - [ ] Print stylesheet?
+- [ ] Google Sitemap?
 
 
 ## Device Compatibility
